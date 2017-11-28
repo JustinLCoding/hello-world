@@ -1,3 +1,3 @@
 # hello-world
-first repository
+first try
 This is already a little confusing.
